@@ -26,10 +26,10 @@
 <h2 align="center">Reach me out on</h2>
 <p align="center">
   <a href="mailto: andersondario@gmail.com">
-    <img src="https://img.shields.io/badge/-andersondario-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andersondario@gmail.com"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/andersondarioo/">
-    <img src="https://img.shields.io/badge/-andersondario-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritik-rawal-698a18142/"/>
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 <br>
@@ -47,6 +47,6 @@
 </p> 
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=andersondario&theme=dracula">
+ <img src="https://activity-graph.herokuapp.com/graph?username=andersondario&theme=dracula" width=760px >
 </p> 
 <hr>
