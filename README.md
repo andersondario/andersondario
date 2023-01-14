@@ -37,9 +37,9 @@
 <h2 align="center">My Github Stats</h2>
  
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=andersondario&show_icons=true&theme=dracula" height=150px>
+  <img  src = "https://github-readme-stats-sigma-five.vercel.app/api?username=andersondario&show_icons=true&theme=dracula" height=150px>
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=andersondario&show_icons=true&locale=en&layout=compact&theme=dracula" height=150px margin-left=100px/>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=andersondario&card_width=370px&theme=dracula&layout=compact&langs_count=10&hide=html,typescript,css,pug" height=150px>
+  <img src = "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andersondario&card_width=370px&theme=dracula&layout=compact&langs_count=10&hide=html,typescript,css,pug" height=150px>
 </p>
 
 <p align = "center">
