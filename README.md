@@ -31,6 +31,13 @@
   <a href="https://www.linkedin.com/in/andersondarioo/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://medium.com/@andersondario">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+  <a href="https://andersondario.dev">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  </a>
+  
 </p>
 <br>
 
@@ -44,9 +51,5 @@
 
 <p align = "center">
 
-</p> 
-
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=andersondario&theme=dracula" width=760px >
 </p> 
 <hr>
