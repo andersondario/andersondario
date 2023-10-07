@@ -1,6 +1,6 @@
 
 </p align="center">
-<img src="./assets/header.png" />
+<img src="header.png" />
 </p>
 
 <h2 align="center">Technology Stack</h2>
